@@ -256,7 +256,7 @@ GameObject:
   - component: {fileID: 2734508268739792504}
   - component: {fileID: 5708152927048993623}
   - component: {fileID: 1948907943771164659}
-  - component: {fileID: 2861459024591967430}
+  - component: {fileID: 7838445438165710685}
   m_Layer: 0
   m_Name: JohnLemon
   m_TagString: Untagged
@@ -329,7 +329,7 @@ CapsuleCollider:
   m_Height: 1.4
   m_Direction: 1
   m_Center: {x: 0, y: 0.7, z: 0}
---- !u!114 &2861459024591967430
+--- !u!114 &7838445438165710685
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
